@@ -18,8 +18,8 @@ for codex版本：https://github.com/michael-denyer/pstack-claude/tree/main
 
 **Pstack 分为三层：**
 
-- **工程原则：**规定代码和验证的标准
-- **playbook：**给 Agent 提供处理任务的步骤
+- <strong>工程原则：</strong>规定代码和验证的标准
+- <strong>playbook：</strong>给 Agent 提供处理任务的步骤
 - **skills 和斜杠命令**执行具体工作
 
 它包含 **27 个功能技能、24 条工程原则、23 个任务流程和 2 个子代理**。
