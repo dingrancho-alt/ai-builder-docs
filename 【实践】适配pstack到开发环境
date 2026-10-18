@@ -1,0 +1,7 @@
+什么是pstack
+cursor版本：https://github.com/cursor/plugins/tree/main/pstack 
+for codex版本：https://github.com/michael-denyer/pstack-claude/tree/main
+
+适合的场景
+它适合质量要求高、值得投入时间和 Token 的任务，不必每个改动都全套使用。重要功能、复杂代码库、错误代价高且需要深入验证时，可以考虑这套流程；小的设计调整或普通前端 UI 改动，通常不值得启动全部并行审查与验证步骤。
+不需要使用复杂的RAG，使用LLM维护的索引文件，通过渐进式加载，在一定的规模上表现更好。
